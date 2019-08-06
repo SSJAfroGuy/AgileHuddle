@@ -1,1 +1,1 @@
-print("Goodbye - you failed at shooting laser pizzas from your eyes")
+print(":v conflict time")
